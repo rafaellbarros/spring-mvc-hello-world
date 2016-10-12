@@ -1,7 +1,7 @@
 package br.com.rafael.barros;
 
 public class Hello {
-	public void helloWorld(){
+	public static void helloWorld(){
 		System.out.println("Hello World!");
 	}
 }
